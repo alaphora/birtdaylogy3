@@ -1,8 +1,8 @@
-# 💖 Anniversary 2.0 Website
+# 🎂 Birthday Surprise V2 – A Modern & Emotional Birthday Gift
 
-Celebrate love in style with Anniversary 2.0 - a beautifully crafted website experience. With elegant UI, romantic animations, and personalized messages, it transforms a simple ‘Happy Anniversary’ into a heartfelt and unforgettable moment✨❤️
+Celebrate someone’s birthday in a unique and heart-touching way with this new version of the "Birthday Surprise" website. This version includes beautiful animations, confetti, a photo slideshow, and a special countdown – all crafted to create an unforgettable moment. 💖
 
-> ⚠️ This is a **free version**, so some features like background music, game screen, some animations are not included. Premium version includes all features. If you want premium code then DM me on Instagram.
+> ⚠️ This is a **free version**, so some features like background music, animations and message cards are not included. Premium version includes full photo gallery, music, animations and personal message cards. If you want premium code then DM me on Instagram.
 
 ---
 
@@ -10,8 +10,9 @@ Celebrate love in style with Anniversary 2.0 - a beautifully crafted website exp
 
 - ⚛️ **Next.js** – React Framework for building fast UI
 - 🎨 **Tailwind CSS** – For modern and responsive styling
-- 🎞️ **Framer-motion** – Smooth entrance and fade animations
-- 🖼️ **Keen-slider** – For smooth image/cards slideshow
+- 🎞️ **Framer Motion** – Smooth entrance and fade animations
+- 🎊 **Canvas Confetti** – Birthday celebration confetti effect
+- 🖼️ **Swiper.js** – For smooth image slideshow
 
 ---
 
@@ -21,10 +22,10 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anuj579/anniversary-site-v2.git
+git clone https://github.com/Anuj579/birthday-site-v2.git
 
 # Navigate into the folder
-cd anniversary-site-v2
+cd birthday-site-v2
 
 # Install dependencies
 npm install
@@ -53,7 +54,3 @@ Follow me for more emotional surprise websites and creative dev content:
 If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
 Thank you for being here! 🫶  
 Made with emotions by **Anuj** – _@anujbuilds_
-
-✨ If you'd like to support my work directly, you can donate via UPI:  
-**anujbuilds.wallet@phonepe**  
-Even a small contribution helps me keep creating cute, emotional projects 💖

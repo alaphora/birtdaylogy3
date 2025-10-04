@@ -1,14 +1,13 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Happy Anniversary!",
-  description: "A special surprise website filled with love, memories, and heartfelt moments just for you💕",
+  title: "Happy Birthday!",
+  description: "An animated birthday surprise filled with emotions, words from the heart, and a letter that types itself — just for you."
 };
-
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <body
         className={`antialiased`}
       >
